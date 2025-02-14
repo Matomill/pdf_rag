@@ -1,0 +1,9 @@
+huggingface_hub==0.25.2
+langchain
+langchain_openai
+langchain_community
+langchain_text_splitters
+pypdf
+langchain_chroma
+sentence-transformers
+gradio
